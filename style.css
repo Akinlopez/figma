@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.7;
+}
+header{
+    background-color: antiquewhite;
+    opacity: calc();
+}
+.btn{
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    margin-right: 25px;
+
+}
+.log{
+    color: blue;
+    margin-right: 10px;
+    
+}
+.log:hover{
+   text-decoration: underline;
+}
+.logo{
+    display:flex;
+    align-items: center;
+    margin-left: 50px;
+    padding-bottom: -50%;
+}
+.logo .chain{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.logo .line{
+    height: 20px;
+    margin-right: 5px;
+}
+h1{
+    color: lightblue;
+    font-size: 20px;
+    margin: 0;
+}
+.pointer{
+    width: 10px;
+    height: 10px;
+    margin-top: 0;
+}
+.loca{
+    color: blue;
+}
+.loca:hover{
+    text-decoration: underline;
+}
+#nav{
+    background-color: antiquewhite;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 18px;
+    color: black;
+    margin: 5px;
+}
+a:hover{
+    text-decoration: blue;
+    text-decoration-line: underline;    
+    
+}
+.list{
+    margin-left: auto;
+    width: 50%;
+    margin-top: 20px;
+}
+.feature .pointer{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+strong{
+    color: blue;
+}
+h2{
+    margin-top: 40px;
+}
+.para{
+    margin-top: 40px;
+}
+.curve{
+     width: 100px;
+    background-color: antiquewhite;
+    margin-left: 50%;
+    padding: -120%;
+    margin-top: -50%;
+    
+}
+.line1{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 17px;
+}
+.line1:hover{
+    text-decoration: blue;
+    text-decoration-line: underline;
+    
+}
+.btn1{
+    color: #fff;
+    font-size: 15px;
+    background-color: blue;
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    font-weight: 300;
+}
+.learn{
+    color: blue;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.Sign{
+    margin-left: auto;
+    width: 50%;
+}
+ul {
+    /* Remove default list styles */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    /* Add some spacing */
+    margin-bottom: 10px;
+    display: inline-block;
+    }
+               
+ul li img {
+            /* Set image properties */
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            /* Add any other styles you want for the images */
+         }
+ ul li img {
+       
+    max-width: 50px;
+    height: 50px;
+    border-radius: 25px;
+   
+  }
+  .art{
+    margin-left: 30%;
+    margin-top: 30px;
+
+  }
+  .seam{
+    align-items: center;
+    font-size: 15px;
+  }
+ 
+  .sentence-container{
+    display: flex;
+    margin-top: 40px;
+    
+  }
+  .sentence{
+    flex: 1;
+    font-size: 15px;
+    font-weight: 200;
+  }
